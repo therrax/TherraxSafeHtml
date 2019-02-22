@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>TherraxSafeHtmlPackage</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Therrax</authors>
     <owners>Therrax</owners>
     <projectUrl>https://github.com/therrax/TherraxSafeHtml</projectUrl>
