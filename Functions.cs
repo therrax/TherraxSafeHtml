@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace therraxsafehtml
+namespace TherraxSafeHtmlPackage
 {
     public static class Functions
     {
